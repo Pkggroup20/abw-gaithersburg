@@ -19,15 +19,13 @@ const ModalText = () => {
         rel="noreferrer"
         target="_blank"
       >
-        <button className="md-link-icon-clover">
-          ORDER ONLINE FOR PICKUP OR DELIVERY
-        </button>
+        <button className="md-link-icon-clover">ORDER ONLINE FOR PICKUP</button>
       </a>
       <div className="md-link">
         <div className="md-link-box">
           <a
             className=""
-            href="https://www.grubhub.com/restaurant/americas-best-wings-11242-georgia-ave-silver-spring/2522990?classicAffiliateId=%2Fr%2Fw%2F2522990%2F&utm_source=https://restaurant.grubhub.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=2522990"
+            href="https://www.grubhub.com/restaurant/americas-best-wings-18208-contour-rd-gaithersburg/5600984"
             rel="noreferrer"
             target="_blank"
           >
@@ -44,7 +42,7 @@ const ModalText = () => {
         <div className="md-link-box">
           <a
             className=""
-            href="https://order.ubereats.com/washington-dc/food-delivery/Americas%20Best%20Wings/FyYRRlNQSvep04tzcSpABg/?utm_source=web-restaurant-manager"
+            href="https://www.ubereats.com/store/americas-best-wings-gaithersburg/svfrM4qZTQmvZejHa_RbNA?diningMode=DELIVERY"
             rel="noreferrer"
             target="_blank"
           >
@@ -61,7 +59,7 @@ const ModalText = () => {
         <div className="md-link-box">
           <a
             className=""
-            href="https://www.doordash.com/store/america's-best-wings-silver-spring-1452081/23271549/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJhbWVyaWNhcyBiZXN0IHdpbmdzIHdoZWF0b24iLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiYW1lcmljYSBiZXN0IHdpbmdzIHdoZWF0IG9uIiwidmVydGljYWxfaWQiOi05OTksInZlcnRpY2FsX25hbWUiOiJhbGwifX0=&pickup=false"
+            href="https://www.doordash.com/store/americas-best-wings-gaithersburg-24720723/19654372/?preview=1"
             rel="noreferrer"
             target="_blank"
           >
@@ -78,7 +76,7 @@ const ModalText = () => {
         <div className="md-link-box">
           <a
             className=""
-            href="https://www.ezcater.com/catering/pvt/americas-best-wings-4"
+            href="https://www.ezcater.com/catering/pvt/americas-best-wings-gaithersburg"
             rel="noreferrer"
             target="_blank"
           >

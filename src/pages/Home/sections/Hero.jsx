@@ -17,7 +17,7 @@ export default function Hero() {
       <h1 className="hero-title">
         AMERICA'S BEST
         <span style={{ display: "block", color: "#F5E900" }}>
-          WINGS WHEATON
+          WINGS GAITHERSBURG
         </span>
       </h1>
       <p className="hero-info">

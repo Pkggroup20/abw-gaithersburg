@@ -19,7 +19,7 @@ const Footer = () => {
             <img src={phone} alt="phone" className="footer-info-icons" />
           </div>
           <div>
-            <a href="tel:(240)-833-8387">(240)-647-9453</a>
+            <a href="tel:(240)-912-7171">(240)-912-7171</a>
           </div>
         </div>
 
@@ -29,12 +29,12 @@ const Footer = () => {
           </div>
           <div>
             <a
-              href="http://maps.google.com/?q=11242 Georgia Ave, Silver Spring, Maryland, 20902"
+              href="http://maps.google.com/?q=11242 18208 Contour Rd, Gaithersburg, Maryland, 20877"
               rel="noreferrer"
               target="_blank"
             >
-              11242 Georgia Ave
-              <span style={{ display: "block" }}>Silver Spring, MD 20902</span>
+              18208 Contour Rd
+              <span style={{ display: "block" }}>Gaithersburg, MD 20877</span>
             </a>
           </div>
         </div>
